@@ -1,0 +1,2 @@
+# CobaPertama
+Latihan Pertama Github
